@@ -1,0 +1,10 @@
+{
+    "login": "Приступи",
+    "username": "Корисничко име / адреса ел. поште",
+    "password": "Лозинка",
+    "remember_me": "Запамти ме",
+    "forgot_password": "Заборавили сте лозинку?",
+    "alternative_logins": "Ући кроз",
+    "failed_login_attempt": "Приступ није одобрен, покушајте поново.",
+    "login_successful": "Успешно сте приступили!"
+}

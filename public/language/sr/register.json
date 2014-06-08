@@ -1,0 +1,18 @@
+{
+    "register": "Регистрација",
+    "help.email": "Ваша адреса ел. поште ће бити сакривена, уколико ви не изаберете другачије.",
+    "help.username_restrictions": "Уникатно име из %1 и %2 знакова. Други корисници вас могу памтити по @<span id='yourUsername'>Имену</span>.",
+    "help.minimum_password_length": "Најмања дужина ваше лозинке мора бити %1 знакова.",
+    "email_address": "Адреса ел. поште",
+    "email_address_placeholder": "Унесите адресу ел. поште",
+    "username": "Корисничко име",
+    "username_placeholder": "Унесите корисничко име",
+    "password": "Лозинка",
+    "password_placeholder": "Унесите лозинку",
+    "confirm_password": "Поновите лозинку",
+    "confirm_password_placeholder": "Поновите лозинку",
+    "register_now_button": "Региструј ме",
+    "alternative_registration": "Алтернативна регистрација",
+    "terms_of_use": "Услови коришћења",
+    "agree_to_terms_of_use": "Слажем се са условима"
+}

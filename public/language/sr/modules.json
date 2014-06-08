@@ -1,0 +1,6 @@
+{
+	"chat.chatting_with": "Чат са <span id=\"chat-with-name\"></span>",
+	"chat.placeholder": "унесите поруку и притисните ентер за слање",
+	"chat.send": "Пошаљи",
+	"chat.no_active": "Немате активних чатова."
+}

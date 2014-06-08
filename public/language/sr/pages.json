@@ -1,0 +1,15 @@
+{
+    "home": "Насловна",
+    "unread": "Непрочитане теме",
+    "popular": "Популарне теме",
+    "recent": "Последње теме",
+    "users": "Регистровани корисници",
+    "notifications": "Обавештења",
+    "user.edit": "Уређивање \"%1\"",
+    "user.following": "%1 чита",
+    "user.followers": "Читају %1",
+    "user.posts": "Поруку је послао %1",
+    "user.topics": "Тему је послао %1",
+    "user.favourites": "Изабране теме %1",
+    "user.settings": "Подешавања"
+}
