@@ -1,12 +1,7 @@
 {
     "new_topic_button": "Нова тема",
     "no_topics": "<strong>У овој категорији још нема тема.</strong><br />Зашто не би ви направили једну?",
-    "posts": "поруке",
-    "views": "прегледа",
-    "posted": "написано",
     "browsing": "прегледам",
     "no_replies": "Без одговора",
-    "replied": "одговорено",
-    "last_edited_by": "изменио",
     "share_this_category": "Подели ову категорију"
 }

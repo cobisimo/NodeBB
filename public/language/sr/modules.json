@@ -1,6 +1,11 @@
 {
-	"chat.chatting_with": "Чат са <span id=\"chat-with-name\"></span>",
-	"chat.placeholder": "унесите поруку и притисните ентер за слање",
-	"chat.send": "Пошаљи",
-	"chat.no_active": "Немате активних чатова."
+    "chat.chatting_with": "Ћаскај са <span id=\"chat-with-name\"></span>",
+    "chat.placeholder": "унесите поруку и притисните ентер за слање",
+    "chat.send": "Пошаљи",
+    "chat.no_active": "Немате активних чатова."
+    "chat.user_typing": "%1 куца ...",
+    "chat.user_has_messaged_you": "%1 ти је послао поруку.",
+    "chat.see_all": "Види сва ћаскања",
+    "composer.user_said_in": "%1 је рекао у %2:\n",
+    "composer.user_said": "%1 каже:\n"
 }
